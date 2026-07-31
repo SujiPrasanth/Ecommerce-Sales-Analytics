@@ -345,9 +345,9 @@ Evaluates product performance using revenue, profit, quantity sold, brands, and 
 
 ---
 
-### Demo Video
+## Project Video
 
-Video
+https://github.com/user-attachments/assets/181e5c29-cb02-4a8f-bf6a-79eeec645327
 
 ---
 
