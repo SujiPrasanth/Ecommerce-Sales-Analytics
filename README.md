@@ -287,8 +287,6 @@ After importing the cleaned dataset into Power BI, a semantic data model was cre
 - Navigation Buttons
 - Reset Filter Button
 - Custom Theme & Formatting
-- Drill-down Capabilities
-- Interactive Cross Filtering
 
 ---
 
